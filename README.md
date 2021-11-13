@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis with Pandas and Jupyter Notebook
 ## Overview
 Maria, the chief data scientist for City School, is responsible for collecting data on City Schools testing proficiency. She provided us `.csv` files with the students' test scores, school-related information and funding. Using Pandas, we will be analyzing this data and presenting it to the school board. This will help them with making decisions regarding school budgets and priorities.
 
